@@ -36,11 +36,6 @@ Beyond code, I believe in balance — I'm a spiritual guy, an early-morning code
 - 🥉 3rd Place – **HackOut'24** (top 3 out of 1500+).
 - 👨‍💻 Contributor to open-source Teaching Aid platform (MERN + QR scanning).
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymin4724&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaymin4724&layout=compact&theme=radical)
-
 ## ⚡ Fun Facts
 
 - 🌅 I write better code at **5 AM** than at midnight.
