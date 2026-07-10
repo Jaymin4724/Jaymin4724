@@ -41,6 +41,16 @@
 
 ## 💼 Professional Projects (Armakuni)
 
+### 🚀 FlowBoard
+
+Scalable task management platform built with asynchronous FastAPI, JWT authentication, Redis and Celery powered workflows, AWS S3 integration, Dockerized deployment, and a comprehensive 53-test Pytest suite with 75% test coverage.
+
+**Tech:** FastAPI, PostgreSQL, Redis, Celery, AWS S3, Docker, Pytest
+
+🔗 **Repository:** https://github.com/Jaymin4724/Flowboard/
+
+---
+
 ### 🎬 CineBook *(Repository coming soon)*
 
 Scalable movie ticket booking backend focused on concurrency-safe seat booking, RBAC, Google OAuth2 authentication, Elasticsearch-powered search, and transaction-safe booking workflows.
