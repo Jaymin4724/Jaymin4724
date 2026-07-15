@@ -47,27 +47,31 @@ Scalable task management platform built with asynchronous FastAPI, JWT authentic
 
 **Tech:** FastAPI, PostgreSQL, Redis, Celery, AWS S3, Docker, Pytest
 
-🔗 **Repository:** https://github.com/Jaymin4724/Flowboard/
+🔗 **Repository:** https://github.com/Jaymin4724/flowboard/
 
 ---
 
-### 🎬 CineBook *(Repository coming soon)*
+### 🎬 CineBook
 
 Scalable movie ticket booking backend focused on concurrency-safe seat booking, RBAC, Google OAuth2 authentication, Elasticsearch-powered search, and transaction-safe booking workflows.
 
 **Tech:** FastAPI, PostgreSQL, Redis, Elasticsearch
 
+🔗 **Repository:** https://github.com/Jaymin4724/cinebook/
+
 ---
 
-### 🤖 Prompt2SQL *(Repository coming soon)*
+### 🤖 Prompt2SQL
 
 AI-powered Text-to-SQL backend that converts natural language into executable SQL using dynamic schema retrieval, prompt engineering, SQL validation, conversation memory, and LLM-based result explanation.
 
 **Tech:** FastAPI, PostgreSQL, Redis, Groq, LangChain
 
+🔗 **Repository:** https://github.com/Jaymin4724/Prompt2SQL/
+
 ---
 
-### 📰 FlashRead *(Repository coming soon)*
+### 📰 FlashRead
 
 Automated newsletter aggregation platform that scrapes articles, generates AI summaries, categorizes content, and delivers scheduled email digests.
 
@@ -75,7 +79,7 @@ Automated newsletter aggregation platform that scrapes articles, generates AI su
 
 ---
 
-### 📄 PDF Chat *(Repository coming soon)*
+### 📄 PDF Chat
 
 RAG-based application that enables conversational querying over PDF documents using semantic retrieval and vector search.
 
@@ -83,7 +87,7 @@ RAG-based application that enables conversational querying over PDF documents us
 
 ---
 
-### 🔁 Boomerang *(Team Contribution | Repository coming soon)*
+### 🔁 Boomerang *(Team Contribution | Repository is Private)*
 
 Contributed to the ingestion and clustering agents of a multi-agent AI platform for marketplace return-risk detection built on AWS Bedrock during an internal hackathon.
 
